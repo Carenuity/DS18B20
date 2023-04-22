@@ -17,6 +17,9 @@ void setup() {
   Serial.begin(115200);
   display.begin(SSD1306_SWITCHCAPVCC, 0x3C);
  display.display();
+ 
+    // Start the DS18B20 sensor
+  sensors.begin();
 }
  
 void loop() {
