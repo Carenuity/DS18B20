@@ -3,7 +3,7 @@
 This repository contains a collection of C3-Mini sketches that utilize the DS18B20 sensor, one of the environmental sensors, used for temperature measurements.
 
 ## Getting Started
-To get started with this sensor, you need a C3-Mini board and optionally a triple adapter. The code for each microcontroller is included in this repository, and you can upload it to your D1- / C3-Mini board using the Arduino IDE or another compatible programming environment.
+To get started with this sensor, you need a C3-Mini board and optionally a triple adapter. The code for each microcontroller is included in this repository, and you can upload it to your C3-Mini board using the Arduino IDE or another compatible programming environment.
 
 ## Hardware Requirements
 - C3-Mini (ESP32) 
