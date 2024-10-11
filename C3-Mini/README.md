@@ -1,15 +1,15 @@
-# D1- / C3-Mini Projects with Environmental Shields (CLOUDFREE!)
+# C3-Mini Projects with Environmental Shields (CLOUDFREE!)
 ## DS18B20
-This repository contains a collection of D1- / C3-Mini sketches that utilize the DS18B20 sensor, one of the environmental sensors, used for temperature measurements.
+This repository contains a collection of C3-Mini sketches that utilize the DS18B20 sensor, one of the environmental sensors, used for temperature measurements.
 
 ## Getting Started
-To get started with this sensor, you need a D1- / C3-Mini board and optionally a triple adapter. The code for each microcontroller is included in this repository, and you can upload it to your D1- / C3-Mini board using the Arduino IDE or another compatible programming environment.
+To get started with this sensor, you need a C3-Mini board and optionally a triple adapter. The code for each microcontroller is included in this repository, and you can upload it to your D1- / C3-Mini board using the Arduino IDE or another compatible programming environment.
 
 ## Hardware Requirements
-- ESP8266 D1-Mini / ESP32 C3-Mini 
-- Environmental shield/sensor
+- C3-Mini (ESP32) 
+- Environmental shield with sensor: DS18B20
 - Optional:
-  - 0.66 OLED Display
+  - Display: 0.66 inch OLED or 0.96 inch OLED
   - Dual- or Triple-Adapter
 
 ## Software Requirements
