@@ -1,15 +1,16 @@
 # C3-Mini Projects with Environmental Shields (CLOUDFREE!)
 ## DS18B20
-This repository contains a collection of D1 Mini projects that utilize environmental shields, including temperature and humidity sensors, barometric pressure sensors, and more.
+This repository contains a collection of C3-Mini sketches that utilize the DS18B20 sensor, one of the environmental sensors, used for temperature measurements.
 
 ## Getting Started
-To get started with these projects, you'll need a dualbase board or a triple adapter D1 Mini board,as well as one or more environmental shields. The code for each project is included in this repository, and you can upload it to your D1 Mini board using the Arduino IDE or another compatible programming environment.
+To get started with this sensor, you need a C3-Mini board and optionally a triple adapter. The code for each microcontroller is included in this repository, and you can upload it to your C3-Mini board using the Arduino IDE or another compatible programming environment.
 
 ## Hardware Requirements
-- Dual base adapter / A Trippler
-- ESP8266 D1-mini
-- Environmental shield/sensor
-- 0.66 OLED DISPLAY
+- C3-Mini (ESP32) 
+- Environmental shield with sensor: DS18B20
+- Optional:
+  - Display: 0.66 inch OLED or 0.96 inch OLED
+  - Dual- or Triple-Adapter
 
 ## Software Requirements
 - [Arduino IDE](https://www.arduino.cc/en/software) for programming the ESP8266 D1-mini
